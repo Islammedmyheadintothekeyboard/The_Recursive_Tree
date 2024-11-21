@@ -1,0 +1,3 @@
+1. When the length is under a certain amount is the base case, and the recursive case of this project is when the length isn't under that certain amount.
+2. Trunk and length, length helps to work towards the base case because it decreases each time recursion happens.
+3. Figuring out Turtle and how it works, building a v shape without using recursion, and start drawing something with recursion.
